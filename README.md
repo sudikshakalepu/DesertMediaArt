@@ -1,4 +1,3 @@
-![talkingthorn](https://github.com/sudikshakalepu/DesertMediaArt/assets/112332946/694f5b66-7247-4a5f-8873-1dd7d96ed780)# DesertMediaArt
 
 ### Exercise 3 : _Talking Thorn_: A Prototype
 ##### Concept
